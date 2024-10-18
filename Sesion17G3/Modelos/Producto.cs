@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProductoServicio.models
+namespace Sesion17G3.Modelos
 {
     public struct Producto
     {
